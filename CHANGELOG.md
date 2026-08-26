@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [9.3.1](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/compare/v9.3.0...v9.3.1) (2026-08-26)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#308](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/issues/308)) ([149f7de](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/commit/149f7deb7c18389e5144e02db577b1d1c5e46f9a))
+
 ## [9.3.0](https://github.com/terraform-aws-modules/terraform-aws-autoscaling/compare/v9.2.1...v9.3.0) (2026-08-03)
 
 ### Features
